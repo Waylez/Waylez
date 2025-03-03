@@ -1,26 +1,3 @@
-
-
-
-## Features
-- 🔴 Real time
-- 🌐 custom web view
-- 🔔 notification reader
-- 🔔 notification sender (send custom notification that apper on target device with custom click link)
-- 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
-- 📡 receive information about simcard provider
-- 📳 vibrate target device
-- 🛰️ receive device location
-- ✉️ receive all target message
-- ✉️ send sms with target device to any number
-- ✉️ send sms with target device to all of his/her contacts
-- 👤 recive all target contacts
-- 💻 receive list of all installedd apps in target device
-- 📷 capture main and front camera
-- 🎙 capture microphone (with custom duration)
-- 📋 receive last clipboard text
-- ✅️ auto start after device boot
-- 🔐 Keylogger
-- ✨ Beautiful telegram bot interface
   ## DOGE RAT PAID VERSION FEATURES
 - 🤖 Auto permisson  
 - 🔐Encrypt/ Decrypt after encryption victims will be not able to use their devices
@@ -171,24 +148,3 @@
 
 <p align="center">If you find my work valuable, you can show your support by sponsoring me. 
   Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-
-
-
-
-<p align="center">Thank you to the following people for their support:</p>
-
-<div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  
-  -------------------------
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
-</div>
